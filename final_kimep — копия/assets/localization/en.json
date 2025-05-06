@@ -1,0 +1,19 @@
+{
+    "login": "Login",
+    "email": "Email",
+    "password": "Password",
+    "enter_email": "Please enter your email",
+    "enter_password": "Please enter your password",
+    "kimep_university": "KIMEP University",
+    "news": "News",
+    "post": "Post",
+    "animation": "Animation",
+    "profile": "Profile",
+    "animated_text": "Welcome to KIMEP Animation!",
+    "load_error": "Failed to load data",
+    "profile_desc": "Update your profile",
+    "username": "Username",
+    "enter_username": "Please enter a username",
+    "update": "Update"
+  }
+  
